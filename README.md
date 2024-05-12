@@ -1,3 +1,7 @@
+<div class="container">
+    <img src="https://cdn.discordapp.com/attachments/896178519489527818/1239252034964951110/cover_USCMI8GE2.png?ex=66423ee5&is=6640ed65&hm=7b1dedca5ddac51882daa07be98c613cc8703aca330a663b83b6015d306cd212&" alt="Capa do Ebook">
+</div>
+
 # Ebook criado por I.A.s
 <!DOCTYPE html>
 <html lang="pt-BR">
