@@ -5,27 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Ebook: A Fusão da Inteligência Artificial e Humana</title>
-    <style>
         /* Estilos de exemplo. Ajuste conforme necessário */
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            color: #333;
-            margin: 0;
-            padding: 0;
-        }
-        .container {
-            max-width: 800px;
-            margin: 0 auto;
-            padding: 20px;
-        }
-        h1, h2, h3 {
-            color: #444;
-        }
-        p {
-            margin-bottom: 20px;
-        }
-    </style>
 </head>
 <body>
     <div class="container">
