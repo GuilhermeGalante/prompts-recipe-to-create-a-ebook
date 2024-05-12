@@ -30,7 +30,7 @@
             <li>As ferramentas e técnicas de diagramação.</li>
             <li>Dicas e truques para otimizar o processo de criação de ebooks.</li>
         </ul>
-        <p>Acesse meu LinkedIn em <a href="[[insira seu link do GitHub](https://www.linkedin.com/in/guilherme-galante-368365299/)]"></a>  e explore os bastidores da criação deste ebook!</p>
+        <p>Acesse meu GitHub em <a href="[linkedin]">[https://www.linkedin.com/in/guilherme-galante-368365299/]</a> e explore os bastidores da criação deste ebook!</p>
         <h2>A Força da Colaboração:</h2>
         <p>Este ebook é um exemplo do potencial da colaboração entre a inteligência artificial e a criatividade humana. A IA oferece velocidade, eficiência e capacidade de processamento de dados, enquanto a mente humana contribui com a criatividade, a intuição e a sensibilidade para transformar informações em conhecimento acessível e inspirador.</p>
         <p>Juntos, podemos alcançar novos patamares de inovação e construir um futuro mais inteligente e eficiente.</p>
