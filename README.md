@@ -4,8 +4,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ebook: A Fusão da Inteligência Artificial e Humana</title>
-        /* Estilos de exemplo. Ajuste conforme necessário */
+    <h1>Ebook: A Fusão da Inteligência Artificial e Humana</h1>
+       
 </head>
 <body>
     <div class="container">
