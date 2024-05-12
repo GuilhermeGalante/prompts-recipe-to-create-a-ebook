@@ -14,7 +14,7 @@
     <div class="container">
         <p>Este ebook é o resultado de uma colaboração única entre a inteligência artificial e a criatividade humana.</p>
         <h2>O Papel da IA:</h2>
-        <p>Utilizando o poder da inteligência artificial, especificamente o modelo de linguagem GPT-3.5,GPT-4 (Copilot) e Gemini 1.5, foi possível gerar o conteúdo textual deste ebook de forma rápida e eficiente. Através de uma série de prompts, que são instruções detalhadas fornecidas à IA, foi possível guiar a criação do conteúdo, definindo os temas, a estrutura, o estilo de linguagem e até mesmo o nível de detalhe de cada seção.</p>
+        <p>Utilizando o poder da inteligência artificial, utilizando as tecnologias do chatp GPT-3.5,GPT-4 (Copilot) e Gemini 1.5, foi possível gerar o conteúdo textual deste ebook de forma rápida e eficiente. Através de uma série de prompts, que são instruções detalhadas fornecidas à IA, foi possível guiar a criação do conteúdo, definindo os temas, a estrutura, o estilo de linguagem e até mesmo o nível de detalhe de cada seção.</p>
         <h3>Os Prompts:</h3>
         <p>Para que a IA pudesse gerar um conteúdo relevante e informativo sobre investimentos, foram utilizados prompts específicos, como:</p>
         <ul>
