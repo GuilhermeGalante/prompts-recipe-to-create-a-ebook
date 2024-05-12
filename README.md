@@ -9,7 +9,6 @@
 </head>
 <body>
     <div class="container">
-        <h1>Um Ebook Criado em Colaboração: A Fusão da Inteligência Artificial e Humana</h1>
         <p>Este ebook que você tem em mãos é fruto de uma colaboração única entre a inteligência artificial e a criatividade humana.</p>
         <h2>O Papel da IA:</h2>
         <p>Utilizando o poder da inteligência artificial, especificamente o modelo de linguagem GPT-3, foi possível gerar o conteúdo textual deste ebook de forma rápida e eficiente. Através de uma série de prompts, que são instruções detalhadas fornecidas à IA, foi possível guiar a criação do conteúdo, definindo os temas, a estrutura, o estilo de linguagem e até mesmo o nível de detalhe de cada seção.</p>
